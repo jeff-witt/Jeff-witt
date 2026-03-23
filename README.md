@@ -1,6 +1,6 @@
 # Hi, I'm Jeff 👋
 
-I’m a Functional IT Leader focused on Digital Manufacturing, Asset Management,
+I’m a Digital Transformation Leader - Strategic Planning, Asset Management,
 and AI-enabled operations.
 
 ## What I work on
