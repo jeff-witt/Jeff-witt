@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Jeff 👋
 
-<!--
-**jeff-witt/Jeff-witt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Functional IT Leader focused on Digital Manufacturing, Asset Management,
+and AI-enabled operations.
 
-Here are some ideas to get you started:
+## What I work on
+- Digital Manufacturing strategy & roadmaps
+- Asset Management & Reliability (SAP PM / S/4 EAM)
+- Unified Namespace (UNS) and industrial data models
+- AI-enabled decision support for operations and maintenance
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What you’ll find here
+This GitHub is a working notebook for:
+- Architecture diagrams and reference models
+- Decision frameworks and playbooks
+- Documentation-first experiments
+- Light automation, scripts, and AI agent prompts
+
+## Background
+- Manufacturing IT leadership
+- Cross-functional strategy (IT, Ops, Reliability, Data)
+- Emphasis on clarity, reuse, and scalable patterns
+
+📫 Connect with me on LinkedIn: https://www.linkedin.com/in/jeff-witt/ 
+``
